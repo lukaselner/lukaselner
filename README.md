@@ -20,8 +20,10 @@ After hours, I return to what brought me into IT in the first place — writing 
 
 ## What I do for fun
 
-- **PHP** — vanilla, no frameworks unless necessary
+- **PHP** — vanilla as default, frameworks as an option
 - **HTML5, CSS3, jQuery** — W3C-valid, clean code, no inline styles
+- **Tabler** — clean, accessible UI components when I need a head start
+- **Google Material Design 3 (Material You)** — when adaptive, expressive design fits the project
 - **AI-assisted development** — experimenting with Claude Code in my daily workflow
 
 ## My approach to code
