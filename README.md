@@ -1,35 +1,44 @@
-# Ahoj, jsem Lukáš
+# Hi, I'm Lukáš
 
-Bezpečnostní a IT ředitel z Olomouce. V kanceláři řeším strategii, ZKB a NIS2.
-Doma se vracím k tomu, co mě před lety přivedlo do IT — k psaní kódu.
+Based in Olomouc, Czech Republic. I've spent nearly two decades in IT —
+starting as a hands-on technician, growing through team leadership,
+and these days mostly working on cybersecurity, strategy, and architecture.
+After hours, I return to what brought me into IT in the first place — writing code.
 
-> *„Spokojenost lidí v mém okolí jsou mé hlavní cíle. A pokud se na nich
-> dokážu podílet, udělám pro to vše, co budu moci.“*
-
----
-
-## 🎯 Co dělám profesně
-
-- 🛡️ **Kybernetická a informační bezpečnost** — ZKB, NIS2, ISMS, ISO 27001
-- 🏗️ **Enterprise architektura** — TOGAF Foundation, ISO 20000
-- 🤖 **AI v podnikové praxi** — IBM watsonx Generative AI Sales Foundation & Intermediate
-- 👥 **Vedení týmů** — divize ICT, projektové vedení
-- 🎓 **Lektor** — kyberbezpečnost, manažerské nástroje, AutoCAD, web
-
-## 💻 Co dělám pro radost
-
-- 🐘 **PHP** — vanilla, žádné frameworky pokud to není nutné
-- 🎨 **HTML5, CSS3, jQuery** — validní podle W3C, čistý kód, bez inline stylů
-- 🤖 **AI-assisted development** — experimentuji s Claude Code v každodenním workflow
-- 📦 **Sdílený webhosting** — řešení šitá na míru omezeným prostředím
-
-## 🛠️ Můj přístup ke kódu
-
-- Tabulátory > mezery
-- Čitelnost > chytrost
-- Standardy > trendy
-- Jednoduchost > komplexita
+> *"The well-being of people around me is my main goal. And if I can contribute
+> to it, I'll do everything I can."*
 
 ---
 
-💼 [LinkedIn](https://www.linkedin.com/in/lukaselner)
+## What occupies my professional time
+
+- **Cybersecurity and information security** — frameworks, governance, NIS2, ISO 27001
+- **Enterprise architecture** — designing the bigger picture (TOGAF, ISO 20000)
+- **AI in enterprise** — practical adoption, not hype (IBM watsonx certified)
+- **Leading teams and projects** — people, planning, decisions
+- **Teaching** — cybersecurity, management, web fundamentals
+
+## What I do for fun
+
+- **PHP** — vanilla, no frameworks unless necessary
+- **HTML5, CSS3, jQuery** — W3C-valid, clean code, no inline styles
+- **AI-assisted development** — experimenting with Claude Code in my daily workflow
+
+## My approach to code
+
+- **Tabs &rsaquo; spaces** — flexible indentation that respects how each developer reads code
+- **Readability &rsaquo; cleverness** — code is read far more often than it's written
+- **Standards &rsaquo; trends** — what's universally supported today will work tomorrow
+- **Simplicity &rsaquo; complexity** — the best solution is usually the one you didn't have to build
+
+## Public projects
+
+*(working on a few things, links coming soon)*
+
+## Beyond code
+
+Olomouc · swimming · music · film
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/lukaselner)
